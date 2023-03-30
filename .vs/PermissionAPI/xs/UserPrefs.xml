@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{A3091C48-A51B-4EEE-8384-77E62773A147}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PermissionAPI/Program.cs">
+    <Files>
+      <File FileName="Permission.Models/Context/PermissionDataContext.cs" Line="7" Column="36" />
+      <File FileName="Permission.Models/Entities/IAudit.cs" Line="6" Column="3" />
+      <File FileName="Permission.Models/Entities/Permission.cs" Line="7" Column="23" />
+      <File FileName="Permission.Services/Dtos/IAuditDto.cs" Line="6" Column="13" />
+      <File FileName="Permission.Services/Dtos/PermissionDto.cs" Line="18" Column="1" />
+      <File FileName="Permission.Services/Dtos/PermissionTypeDto.cs" Line="6" Column="20" />
+      <File FileName="Permission.Services/AutoMapperProfile/PermissionProfile.cs" Line="23" Column="1" />
+      <File FileName="Permission.Services/Services/IBaseService.cs" Line="74" Column="28" />
+      <File FileName="Permission.Services/Validators/EntityValidationResult.cs" Line="8" Column="64" />
+      <File FileName="Permission.Models/Repositories/RepositoryBase.cs" Line="24" Column="61" />
+      <File FileName="Permission.Models/Repositories/PermissionRepository.cs" Line="13" Column="63" />
+      <File FileName="Permission.Services/Validators/ValidationFailedModel.cs" Line="28" Column="1" />
+      <File FileName="Permission.Services/Services/PermissionService.cs" Line="21" Column="54" />
+      <File FileName="Permission.Services/Services/PermissionTypeService.cs" Line="23" Column="1" />
+      <File FileName="Permission.Services/Validators/PermissionValidator.cs" Line="29" Column="2" />
+      <File FileName="Permission.Services/Validators/PermissionTypeValidator.cs" Line="18" Column="1" />
+      <File FileName="Permission.Services/IoC/ServiceRegistry.cs" Line="14" Column="6" />
+      <File FileName="PermissionAPI/Controllers/BaseController.cs" Line="32" Column="1" />
+      <File FileName="PermissionAPI/Controllers/PermissionController.cs" Line="19" Column="1" />
+      <File FileName="PermissionAPI/Controllers/PermissionTypeController.cs" Line="11" Column="9" />
+      <File FileName="PermissionAPI/Program.cs" Line="24" Column="23" />
+      <File FileName="Permission.Models/IoC/ModelRegistry.cs" Line="12" Column="133" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PermissionAPI" expanded="True">
+            <Node name="Permission.Models" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="IoC" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="PermissionAPI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PermissionAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/bin/Debug/net7.0/Permission.Services.deps.json
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/bin/Debug/net7.0/Permission.Services.dll
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/bin/Debug/net7.0/Permission.Services.pdb
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.csproj.AssemblyReference.cache
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.AssemblyInfoInputs.cache
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.AssemblyInfo.cs
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.csproj.CoreCompileInputs.cache
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.dll
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/refint/Permission.Services.dll
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.pdb
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/ref/Permission.Services.dll
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/bin/Debug/net7.0/Permission.Models.dll
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/bin/Debug/net7.0/Permission.Models.pdb
+/Users/esteban/Code/Personal/PermissionApi/Permission.Services/obj/Debug/net7.0/Permission.Services.csproj.CopyComplete
